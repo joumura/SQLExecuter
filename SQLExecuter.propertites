@@ -1,0 +1,4 @@
+driver=com.ibm.db2.jcc.DB2Driver
+url=jdbc:db2://db2.host:50000/DBNAME:currentSchema=SCHEMA;
+user=DB2ADM
+password=dk5f9dRCxxK6+/nUIIanEw==

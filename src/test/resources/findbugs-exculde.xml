@@ -1,0 +1,6 @@
+<FindBugsFilter>
+    <Match>
+    	<Class name="jp.co.tokyo_gas.cirius_fw.application.DBAccess" />
+        <Bug pattern="UR_UNINIT_READ" />
+    </Match>
+</FindBugsFilter>
