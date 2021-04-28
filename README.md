@@ -1,5 +1,7 @@
 # SQLExecuter
 
+  execute sql on CLI only with Java and JDBC...
+  
 ## usage:
 ```
    ./SQLExecuter.sh select.sql update.sql ...
